@@ -11,7 +11,7 @@ This project is a personal academic portfolio website created to showcase my bac
 - GitHub
 
 ## **GitHub Pages:**
-
+file:///C:/Users/veron/OneDrive/Desktop/firstwebsite/create_website/index.html
 
 ## **How to view the project:**
 
