@@ -1,4 +1,4 @@
-**#Estefania Perez - Personal Portfolio**
+**#Estefania Perez - Personal Portfolio#**
 
 **Project Description:**
 
